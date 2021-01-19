@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\droneyee\\anaconda3\\envs\\vscode\\python.exe",
+    // "python.analysis.disabled":["unresolved-import"],
+}

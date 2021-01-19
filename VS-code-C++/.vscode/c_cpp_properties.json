@@ -1,0 +1,23 @@
+{
+    "configurations": [
+      {
+        "name": "GCC",
+        "includePath": [
+            "${workspaceFolder}/**",
+            "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+            "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+            "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+            "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+            "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+            "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+            "D:/xxw_files/VSCODE/VS-code-C++/PID"
+        ],
+        "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+        "windowsSdkVersion": "10.0.18362.0",
+        "compilerPath": "D:/mingw64/bin/g++.exe",
+        "cStandard": "c11",
+        "intelliSenseMode": "gcc-x64"
+      }
+    ],
+    "version": 4
+  }
