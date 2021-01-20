@@ -1,3 +1,4 @@
-#* vscode
-#this is my vscode setting
-include:c++,C and python's json
+# vscode
+# this is my vscode setting
+include:
+c++,C and python's json
