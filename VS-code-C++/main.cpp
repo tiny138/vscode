@@ -16,4 +16,5 @@ int main()
    cout << i << " " << j<<'\n';
  
    system("PAUSE");
+   return 0;
 }
